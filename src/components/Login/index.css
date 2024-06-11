@@ -47,16 +47,16 @@
 }
 .input {
   width: 360px;
+  font-family: 'Roboto';
   height: 40px;
   border-radius: 8px;
   background-color: #333333;
-  opacity: 0px;
   outline: none;
   border: none;
   cursor: pointer;
   color: #e2e8f0;
   font-family: HK Grotesk;
-  font-size: 14px;
+  font-size: 16px;
   padding-left: 6px;
   font-weight: 400;
   line-height: 24px;
